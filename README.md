@@ -1,8 +1,8 @@
 - 👋 I’m @PeppoSub 
 - ✨ I’m a Physicist by nature, a Sys-Admin by nurture
 - 👀 I’m interested in ML, AI, AR
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m messing around with Unity, and created few AR game demos
+- 💞️ I’m looking to collaborate on anything, in particular on an AR game
 - 📫 How to reach me: pepposub@gmail.com
 
 <!---
